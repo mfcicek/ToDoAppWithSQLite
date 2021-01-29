@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:sqlite/model/todo.dart';
-import 'package:sqlite/utils/dbhelper.dart';
+import 'package:sqlite/database/dbhelper.dart';
 
 final List<String> choices = const <String>[menuDelete, menuBack];
 

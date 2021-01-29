@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sqlite/model/todo.dart';
-import 'package:sqlite/screens/tododetail.dart';
-import 'package:sqlite/utils/dbhelper.dart';
+import 'package:sqlite/screens/todo_detail_screen.dart';
+import 'package:sqlite/database/dbhelper.dart';
 
 class TodayScreen extends StatefulWidget {
   @override
