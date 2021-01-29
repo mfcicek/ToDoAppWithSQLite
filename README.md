@@ -3,4 +3,8 @@
 A new Flutter project.
 
 
-![alt text](https://github.com/mfcicek/ToDoAppWithSQLite/blob/master/asset/images/Screenshot_1611962264.png)
+<p align="center">
+  <img src="https://github.com/mfcicek/ToDoAppWithSQLite/blob/master/asset/images/Screenshot_1611962264.png)" width="150" title="hover text">
+  
+</p>
+
