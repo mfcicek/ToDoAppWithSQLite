@@ -3,8 +3,8 @@
 A new Flutter project.
 
 
-![alt text](https://github.com/mfcicek/ToDoAppWithSQLite/blob/master/asset/images/Screenshot_1611962264.png)
-![alt text](https://github.com/mfcicek/ToDoAppWithSQLite/blob/master/asset/images/Screenshot_1611962241.png)
+![alt text](https://github.com/mfcicek/ToDoAppWithSQLite/blob/master/asset/images/Screenshot_0.jpg)
+![alt text](https://github.com/mfcicek/ToDoAppWithSQLite/blob/master/asset/images/Screenshot_1.jpg)
 )
 
 
